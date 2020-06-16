@@ -1,2 +1,2 @@
-# exquisite-corpse
-exquisite-corpse game BeCode
+<h1>A burning desire</h1>
+<p>Once there was a little girl who wanted to **fly** :fairy_woman:. Every night she prayed :pray: she would wake up with wings. On her 11th birtday *something strange* happened :eyes:.</p>
